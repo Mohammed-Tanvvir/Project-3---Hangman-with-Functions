@@ -10,7 +10,7 @@ If the user guesses a correct letter, display that letter instead of a blank.
 If the user guesses an incorrect letter, add to the number of body parts on the hanging man.
 The game should end after 6 incorrect guesses or once all the letters in the hidden word have been guessed.
 
-Requirements:
+
 Random Word Generator:
 Use a predefined list of words and create a function to select a random word from this list.
 
